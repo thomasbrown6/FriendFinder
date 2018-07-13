@@ -1,0 +1,45 @@
+h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+/* Select boxes */
+.form-control {
+    width: 40%;
+}
+
+#q1,
+#q2,
+#q3,
+#q4,
+#q5,
+#q6,
+#q7,
+#q8,
+#q9,
+#q10,
+#photo,
+#name {
+    background: #373a3c;
+    color: rgb(250, 255, 189) !important;
+}
+
+h3 {
+    margin-top: 25px;
+}
+
+#surveyTitle {
+    font-size: 50px;
+}
+
+#aboutYouHeading {
+    font-size: 35px;
+}
+
+body {
+    background: #20c997;
+}
+
+h1, h2, h3 {
+    color: black;
+}
