@@ -127,7 +127,39 @@ var friends = [
           1,
           4
         ]
-    }
+    },
+    {
+        name: "Lebron James",
+        photo: "../images/lebron.jpg",
+        scores: [
+            5,
+            4,
+            5,
+            1,
+            5,
+            3,
+            5,
+            2,
+            5,
+            4
+          ]
+      },
+      {
+        name: "Michael Jordan",
+        photo: "../images/mj.jpg",
+        scores: [
+            2,
+            3,
+            1,
+            1,
+            4,
+            5,
+            5,
+            2,
+            2,
+            4
+          ]
+      }
 ];
 
 
